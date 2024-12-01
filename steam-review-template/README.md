@@ -24,7 +24,7 @@ It will generate with a line on the bottom that gives me credit. I would appreci
 
 # French
 
-#### Hébergé avec ❤ par Github ici : https://vojtastruhar.github.io/steam-review-template/
+#### Hébergé avec ❤ par Github ici : https://gagaos.github.io/steam-review-template/
 
 # Modèle d'avis Steam
 
