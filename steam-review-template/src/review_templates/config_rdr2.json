@@ -1,0 +1,163 @@
+{
+    "name": "Red Dead Redemption 2",
+    "categories": [
+        {
+            "title": "Graphismes",
+            "type": "radio",
+            "options": [
+                "Vous aller oublier ce qu'est la réalité",
+                "Magnifique",
+                "Bien",
+                "Décent",
+                "Mauvais",
+                "Ne le regardez pas trop",
+                "MS-DOS"
+            ]
+        },
+        {
+            "title": "Gameplay",
+            "type": "radio",
+            "options": [
+                "Très bien",
+                "Bien",
+                "C'est juste du gameplay",
+                "Mouais...",
+                "Mieux-vaux aller regarder nager les poissons",
+                "Juste... Oubliez"
+            ]
+        },
+        {
+            "title": "Audio",
+            "type": "radio",
+            "options": [
+                "MAGNIFIQUE !",
+                "Très bien",
+                "Bien",
+                "Pas si mal",
+                "Mauvais",
+                "Maintenant, je suis sourd"
+            ]
+        },
+        {
+            "title": "Audience",
+            "type": "check",
+            "options": [
+                "Enfants",
+                "Ados",
+                "Adulte",
+                "Grands-parrents"
+            ]
+        },
+        {
+            "title": "Configuration système",
+            "type": "radio",
+            "options": [
+                "Vérifiez si vous pouvez faire tourner paint",
+                "Patate",
+                "Décent",
+                "Bon PC",
+                "Riche",
+                "Même la Nasa n'a pas d'ordinateur suffisant"
+            ]
+        },
+        {
+            "title": "Espace disque",
+            "type": "radio",
+            "options": [
+              "Floppy Disk",
+              "À l'ancienne",
+              "Passable",
+              "Gros",
+              "Vas dévorer 10% de votre disque dur",
+              "Vous allez devoir acheter un disque dur pour lui",
+              "Vous allez devoir investir dans un trou noir pour supporter le jeu"
+            ]
+          },          
+        {
+            "title": "Difficulté",
+            "type": "radio",
+            "options": [
+                "Appiuiez sur 'Z'",
+                "Facile",
+                "Facile à apprendre / Diificle à maitriser",
+                "Usage important du cerveau",
+                "Difficle",
+                "Dark souls"
+            ]
+        },
+        {
+            "title": "Grind",
+            "type": "radio",
+            "options": [
+                "Pas de grind",
+                "Seulement si vous vous souciez des classements",
+                "N'est pas nécessaire pour progresser",
+                "Niveau de grind moyen",
+                "Trop de grind",
+                "Vous aller avoir besoin d'une segonde vie pour grinder"
+            ]
+        },
+        {
+            "title": "Histoire",
+            "type": "radio",
+            "options": [
+                "Pas d'histoire",
+                "Que du lore",
+                "Moyen",
+                "Bien",
+                "Adorable",
+                "Cela va remplacer ta vie"
+            ]
+        },
+        {
+            "title": "Durrée de vie",
+            "type": "radio",
+            "options": [
+                "Assez long pour une tasse de café",
+                "Court",
+                "Moyen",
+                "Long",
+                "Vers l'infini, et au-dela"
+            ]
+        },
+        {
+            "title": "Prix",
+            "type": "radio",
+            "options": [
+                "C'est gratuit !",
+                "Vaux le prix",
+                "Si c'est en solde",
+                "Si il vous reste de l'argent",
+                "Non recommandé",
+                "Vous pouvez aussi bruler votre argent"
+            ]
+        },
+        {
+            "title": "Bugs",
+            "type": "radio",
+            "options": [
+                "Jamais entendu",
+                "Bugs mineurs",
+                "ça augmente la difficulté",
+                "ARK: Survival Evolved",
+                "Le jeu lui-même est un grand terrarium"
+            ]
+        },
+        {
+            "title": "? / 10",
+            "type": "radio",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
+            ]
+        }
+    ]
+}
